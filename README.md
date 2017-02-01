@@ -50,4 +50,17 @@ def render(content="hello world",
            delimiters=('{{', '}}'),
            writer='response.write'
            ):
-``
+```
+
+## Installation
+
+using pip
+```
+pip install w2ptemplate
+```
+or manually
+```
+git clone https://github.com/KillerGoldFisch/w2ptemplate
+cd w2ptemplate
+python setup.py install
+```
