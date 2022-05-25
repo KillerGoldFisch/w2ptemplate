@@ -1,3 +1,5 @@
+# ⚠ Use [YATL](https://github.com/web2py/yatl) instead!
+
 # w2ptemplate
 
 This Package is based on the Template Engine from the Web2Py free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications.
